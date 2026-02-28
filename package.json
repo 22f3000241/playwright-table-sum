@@ -1,0 +1,23 @@
+{
+  "name": "playwright-table-sum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/22f3000241/playwright-table-sum.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/22f3000241/playwright-table-sum/issues"
+  },
+  "homepage": "https://github.com/22f3000241/playwright-table-sum#readme",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}
